@@ -20,6 +20,10 @@ if (number == 57)
 break;
 }
 
+putchar(','); /*print (,)*/
+putchar (' '); /*print a space*/
+}
+
 putchar('\n');
 
 return (0);
