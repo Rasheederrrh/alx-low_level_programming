@@ -1,4 +1,4 @@
-#include "putchar.h"
+#include "main.h"
 
 /**
  * main - Entry point
@@ -9,7 +9,7 @@ int main(void)
 
 {
 int i; /*Declaring statements*/
-char string[9] = "Putchar"; /*Arrays*/
+char string[9] = "main.h"; /*Arrays*/
 
 for (i = 0 ; i < 9 ; i++) /*Start for*/
 {
